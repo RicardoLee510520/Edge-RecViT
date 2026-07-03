@@ -1,0 +1,16 @@
+# Core dependencies for MoR-ViT training
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.29.0
+numpy>=1.21.0,<2.0.0
+matplotlib>=3.5.0
+Pillow>=8.0.0
+scikit-learn>=1.0.0
+tqdm>=4.60.0
+
+# Additional dependencies for data processing
+packaging>=20.0
+huggingface_hub>=0.8.0
+
+# Optional: for better performance
+accelerate>=0.20.0
