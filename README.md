@@ -1,6 +1,6 @@
-# Edge-RecViT
+# Edge-RecViT CVPR 2026 Poster
 
-**Efficient Vision Transformer via Semantic-Refined Dynamic Recursion** (CVPR 2026 Poster)
+**Efficient Vision Transformer via Semantic-Refined Dynamic Recursion** 
 
 
 ## Abstract
